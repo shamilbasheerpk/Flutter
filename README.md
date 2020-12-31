@@ -1,2 +1,2 @@
 # Flutter
-Flutter projects
+Simple Flutter projects for learning
